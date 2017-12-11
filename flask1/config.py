@@ -1,0 +1,5 @@
+user="root"
+password=""
+db="lhs"
+charset="utf8"
+host="127.0.0.1"
